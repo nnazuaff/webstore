@@ -29,9 +29,9 @@ return [
     'connections' => [
 
         'main' => [
-            'salt' => '',
+            'salt' => env('HASH_ID_SALT'),
             'length' => 0,
-            // 'alphabet' => 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+            'alphabet' => 'abdfghjklmnopqrstuvwxyz234567890'
         ],
 
         'alternative' => [
