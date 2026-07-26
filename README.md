@@ -1,4 +1,4 @@
-# 🚀 Laravel 12 WebStore Frontstore dengan Preline UI
+# 🚀 Laravel 13 WebStore Frontstore dengan Preline UI
 
 Repositori ini adalah 'Starter Kit' Laravel 12 yang dilengkapi dengan template e-commerce frontstore menggunakan Preline UI Open Source. Proyek ini bersifat open source dan dapat digunakan sebagai dasar untuk membangun toko online dengan Laravel.
 
